@@ -1,55 +1,55 @@
 {
-	"title": "Você seria um heroi ou vilão ?",
+	"title": "Você seria um dev front-end ou back-end ?",
 	"questions": [
 		{
 			"id": 1,
-			"question": "Qual super poder você escolheria ?",
+			"question": "Qual sua IDE predileta ?",
 			"options": [
-				{ "id": 1, "name": "Raios-Lasers", "alias": "A" },
-				{ "id": 2, "name": "Voar", "alias": "B" },
-				{ "id": 3, "name": "Explodir coisas", "alias": "A" },
-				{ "id": 4, "name": "Curar feridas", "alias": "B" },
-				{ "id": 5, "name": "Soltar fogo pelas mãos", "alias": "A" }
+				{ "id": 1, "name": "VS Code", "alias": "A" },
+				{ "id": 2, "name": "Visual Studio", "alias": "B" },
+				{ "id": 3, "name": "Rider Jet Brains", "alias": "B" },
+				{ "id": 4, "name": "Eclipse", "alias": "B" },
+				{ "id": 5, "name": "Sublime Text", "alias": "A" }
 			]
 		},
 		{
 			"id": 2,
-			"question": "Quem você salvaria primeiro ?",
+			"question": "Seu chefe te pede para dar manutenção em um código C# o que você faz ?",
 			"options": [
-				{ "id": 1, "name": "Crianças", "alias": "A" },
-				{ "id": 2, "name": "Idosos", "alias": "A" },
-				{ "id": 3, "name": "Não saberia escolher", "alias": "B" }
+				{ "id": 1, "name": "Saio correndo e procura outro emprego", "alias": "A" },
+				{ "id": 2, "name": "Na hora chefinho!", "alias": "B" },
+				{ "id": 3, "name": "C o que?", "alias": "A" }
 			]
 		},
 		{
 			"id": 3,
-			"question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+			"question": "O que é um API ?",
 			"options": [
-				{ "id": 1, "name": "Não destruir prédios", "alias": "B" },
-				{ "id": 2, "name": "Socar a cara do inimigo", "alias": "A" },
-				{ "id": 3, "name": "Não sujar meu traje", "alias": "A" },
-				{ "id": 4, "name": "Não deixar ninguém se ferir", "alias": "B" }
+				{ "id": 1, "name": "Sei lá, eu só faço consumir", "alias": "A" },
+				{ "id": 2, "name": "Interface de Programação de Aplicação", "alias": "B" },
+				{ "id": 3, "name": "Melhor perguntar para o responsável do setor", "alias": "A" },
+				{ "id": 4, "name": "interface de comunicação entre sistemas", "alias": "B" }
 			]
 		},
 		{
 			"id": 4,
 			"question": "Qual o seu maior foco ?",
 			"options": [
-				{ "id": 1, "name": "Ficar rico com poderes", "alias": "A" },
-				{ "id": 2, "name": "Salvar a cidade", "alias": "B" }
+				{ "id": 1, "name": "Fazer sites bonitos, funcionais e responsivos", "alias": "A" },
+				{ "id": 2, "name": "Orquestar a manipulação de dados do sistema", "alias": "B" }
 			]
 		},
 		{
 			"id": 5,
-			"question": "Qual o seu apelido de super ser ?",
+			"question": "Qual o seu maior medo ?",
 			"options": [
-				{ "id": 1, "name": "O Terrivel", "alias": "A" },
-				{ "id": 2, "name": "Amigo da vizinhança", "alias": "B" }
+				{ "id": 1, "name": "Um arquivo CSS", "alias": "B" },
+				{ "id": 2, "name": "Um banco de dados", "alias": "A" }
 			]
 		}
 	],
 	"results": {
-		"A": "Você muito provavelmente seria um super vilão!",
-		"B": "Você muito provavelmente seria um super Herói!"
+		"A": "Você muito provavelmente seria um dev front-end! Continue estudando e quem sabe um dia você tome coragem e mergulhe no mundo dos servidores!",
+		"B": "Você muito provavelmente seria um dev back-end! Continue estudando e quem sabe você um dia aprenda a centralizar uma div!"
 	}
 }
